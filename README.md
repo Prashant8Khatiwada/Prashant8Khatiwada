@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashant Khatiwada</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu</h3>
 
-<img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant8khatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="prashant8khatiwada" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant8khatiwada" alt="prashant8khatiwada" /></a> </p>
-
+<h1> About Me </h1>
 - 🌱 I’m currently learning **react js**
-
 - 💬 Ask me about **react**
-
 - 📫 How to reach me **prashantkhatiwada554@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prashant-khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant khatiwada" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/prashant-khatiwada](https://www.linkedin.com/in/prashant-khatiwada-a0b99a184/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant khatiwada" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100079383163545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079383163545" height="30" width="40" /></a>
 <a href="https://instagram.com/khatiwada_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khatiwada_prashant" height="30" width="40" /></a>
 </p>
