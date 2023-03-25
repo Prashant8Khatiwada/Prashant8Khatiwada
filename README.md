@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prashant Khatiwada</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu</h3>
 
-<p><img align="right" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"   alt="prashant8khatiwada" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="400" alt="prashant8khatiwada" /></p>
 
-<img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant8khatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="prashant8khatiwada" /> </p>
 
 <h1> About Me </h1>
 
 - 🌱 I’m currently learning **react js**
-- 
 - 💬 Ask me about **react**
-- 
 - 📫 How to reach me **prashantkhatiwada554@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
