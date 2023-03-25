@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Khatiwada</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu</h3>
 
-<p><img align="right" src="![image](https://user-images.githubusercontent.com/98466046/227726465-02b77ccc-41a9-448d-9a87-641a6f320172.png)
-" alt="prashant8khatiwada" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"   alt="prashant8khatiwada" /></p>
 
 <img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant8khatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="prashant8khatiwada" /> </p>
