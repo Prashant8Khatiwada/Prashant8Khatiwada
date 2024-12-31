@@ -13,6 +13,7 @@
 - 🖥️ I am a **mid-level front-end developer**  
 - 📫 How to reach me **prashantkhatiwada554@gmail.com**  
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/prashant-khatiwada](https://www.linkedin.com/in/prashant-khatiwada-a0b99a184/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant khatiwada" height="30" width="40" /></a>
