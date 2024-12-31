@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant8khatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="prashant8khatiwada" /> </p>
 
 <h1> About Me </h1>
-- 
-- 🌱 I’m currently learning **Node js**
-- 💬 Ask me about **react, Next Js , Typescript**
-- 📫 How to reach me 
+<p>- 🌱 I’m currently learning **Node.js**  </p>
+<p>- 💬 Ask me about **React, Next.js, TypeScript**  </p>
+<p>- 🖥️ I am a **mid-level front-end developer** </p>
+<p>- 📫 How to reach me **prashantkhatiwada554@gmail.com** </p>
 
 
 <h3 align="left">Connect with me:</h3>
